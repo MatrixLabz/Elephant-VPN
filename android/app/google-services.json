@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561720361561",
+    "project_id": "elephant-vpn-24192",
+    "storage_bucket": "elephant-vpn-24192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561720361561:android:172827e955fa56f3812748",
+        "android_client_info": {
+          "package_name": "com.matrix.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561720361561-1ggt18coavo6uff76ds4br9dpnjrkqn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXNqcN4tlGeqOI3WCaQPL268QOWm-2LmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561720361561-1ggt18coavo6uff76ds4br9dpnjrkqn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
