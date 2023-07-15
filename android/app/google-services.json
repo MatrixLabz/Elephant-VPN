@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:561720361561:android:172827e955fa56f3812748",
+        "mobilesdk_app_id": "1:561720361561:android:14d7483d059e7b6f812748",
         "android_client_info": {
-          "package_name": "com.matrix.vpn"
+          "package_name": "com.matrix.elevpn"
         }
       },
       "oauth_client": [

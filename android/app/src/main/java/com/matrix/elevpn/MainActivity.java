@@ -1,4 +1,4 @@
-package com.matrix.vpn;
+package com.matrix.elevpn;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
